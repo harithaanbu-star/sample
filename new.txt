@@ -1,1 +1,0 @@
-This my first text which connects the vs file to git 
